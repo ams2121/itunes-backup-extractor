@@ -1,3 +1,11 @@
+This is a fork of bsdtrhodes itunes-backup-extractor.  My goal is to validate the code, add some interactivity and the use it to be able to easily pull images and videos from iphone/ipad backups with all the metadata.
+
+
+
+-----------------------
+Original Readme Below:
+-----------------------
+
 This is my first python program, please be nice with any feedback.
 
 I put this together when I needed to download the images from a broken iPhone
